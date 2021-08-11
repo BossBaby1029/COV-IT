@@ -3,6 +3,8 @@ COV-IT ALL(Know it All on COV-IT All)-->
 How to Login and use: 
 =============
 
+  Open using the fllowing Link:: https://snack.expo.dev/@bossbaby/cov-it_all 
+   
   username: test@gmail.com
   password: 123456
 
